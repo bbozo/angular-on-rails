@@ -2,4 +2,4 @@
 
 My attempt at an Angular on Rails demo app.
 
-Todo: link to blog post.
+[Read More](http://ngauthier.com/2013/04/learning-angular-on-rails.html)
