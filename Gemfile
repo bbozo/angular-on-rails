@@ -3,8 +3,8 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0.beta1'
 
-gem 'pg'
-gem 'slim', '~> 2.0.0.pre.8'
+gem 'sqlite3'
+gem 'slim', '~> 2.0.0'
 
 # Gems used only for assets and not required
 # in production environments by default.
